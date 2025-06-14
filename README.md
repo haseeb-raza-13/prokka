@@ -3,7 +3,7 @@
 [![DOI:10.1093/bioinformatics/btu153](https://zenodo.org/badge/DOI/10.1093/bioinformatics/btu153.svg)](https://doi.org/10.1093/bioinformatics/btu153)
 ![Don't judge me](https://img.shields.io/badge/Language-Perl_5-steelblue.svg)
 
-# Prokka: rapid prokaryotic genome annotation
+# Prokka: rapid prokaryotic genome annotation pipeline
 
 ## Introduction
 
